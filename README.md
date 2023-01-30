@@ -1,21 +1,3 @@
-<style>
-  .profile {
-    padding: 20px;
-    background-color: #f2f2f2;
-    text-align: center;
-    border-radius: 5px;
-  }
-  h2 {
-    font-size: 24px;
-    margin-bottom: 20px;
-  }
-  p {
-    font-size: 18px;
-    margin-bottom: 20px;
-    line-height: 1.5;
-  }
-</style>
-
 <div class="profile">
   <h2>Sobre mim</h2>
   <p>Olá, meu nome é Douglas e sou eletrotécnico em transição de carreira para desenvolvedor web.</p>
